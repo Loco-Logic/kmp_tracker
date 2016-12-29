@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KMP Tracker</string>
+    <string name="title_activity_record_new_kmp">RecordNewKMP</string>
+    <string name="dialog_save_file">Save file as...</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="filename">File Name</string>
+</resources>
